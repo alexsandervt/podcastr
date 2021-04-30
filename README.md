@@ -1,1 +1,1 @@
-# Podcastr React/NextJS
+# Podcastr React/NextJS/Typescript
